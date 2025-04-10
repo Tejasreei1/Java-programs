@@ -8,8 +8,7 @@ public class sum10 {
             sum += i;  
         }
 
-       
-        System.out.println("The sum of the first 10 natural numbers is: " + sum);
+       System.out.println("The sum of the first 10 natural numbers is: " + sum);
     }
 }
 
